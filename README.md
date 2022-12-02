@@ -9,4 +9,4 @@ This is a remake of the arcade game Breakout made in golang
 | A | Move Left |
 | D | Move Right |
 | R | Restart the game
-# Breakout
+
